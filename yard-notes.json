@@ -1,0 +1,18 @@
+{
+  "clicked": [
+    "start"
+  ],
+  "info": {
+    "title": "Yard",
+    "canvases": 2,
+    "txt": "yard/night-circuit | Night Circuit | Lap 1/3 · P4/4 · 0:02.0 | Fork | 3 | km/h | Drift | W gas · A left · D right · Space drift · R rescue | LeftGasDriftRightBrakeRescue"
+  },
+  "errors": [
+    "CONSOLE: Failed to load resource: net::ERR_EMPTY_RESPONSE",
+    "CONSOLE: Failed to load resource: net::ERR_EMPTY_RESPONSE"
+  ],
+  "failedReqs": [
+    "https://grok.com/grok-app-builder/extensions.js",
+    "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Syne:wght@600;700;800&display=s"
+  ]
+}
