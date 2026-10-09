@@ -1,0 +1,18 @@
+{
+ "id": "scrap-crown",
+ "slot": "head",
+ "name": "Scrap Crown",
+ "description": "Riveted blocky cranium with a grilled face and cyclops optic band.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 6,
+  "speed": 5,
+  "power": 5,
+  "weight": 6
+ },
+ "model": "mecha/parts/scrap-crown/scrap-crown.glb",
+ "tris": 548
+}

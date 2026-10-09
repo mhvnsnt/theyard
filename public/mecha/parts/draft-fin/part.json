@@ -1,0 +1,17 @@
+{
+ "id": "draft-fin",
+ "slot": "shoulder",
+ "name": "Draft Fin",
+ "description": "Aero fin shoulder for slipstream speed. Racer mode.",
+ "modes": [
+  "racer"
+ ],
+ "stats": {
+  "armor": 2,
+  "speed": 9,
+  "power": 1,
+  "weight": 2
+ },
+ "model": "mecha/parts/draft-fin/draft-fin.glb",
+ "tris": 148
+}

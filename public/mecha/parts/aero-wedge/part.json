@@ -1,0 +1,17 @@
+{
+ "id": "aero-wedge",
+ "slot": "torso",
+ "name": "Aero Wedge",
+ "description": "Streamlined wedge cockpit torso with strakes and a rear diffuser. Racer mode.",
+ "modes": [
+  "racer"
+ ],
+ "stats": {
+  "armor": 3,
+  "speed": 10,
+  "power": 4,
+  "weight": 3
+ },
+ "model": "mecha/parts/aero-wedge/aero-wedge.glb",
+ "tris": 236
+}

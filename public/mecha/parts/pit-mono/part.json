@@ -1,0 +1,18 @@
+{
+ "id": "pit-mono",
+ "slot": "torso",
+ "name": "Pit Mono",
+ "description": "Central keel frame with an organic chest shell and vented side pods.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 4,
+  "speed": 8,
+  "power": 5,
+  "weight": 4
+ },
+ "model": "mecha/parts/pit-mono/pit-mono.glb",
+ "tris": 562
+}

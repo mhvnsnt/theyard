@@ -1,0 +1,18 @@
+{
+ "id": "cowl-shroud",
+ "slot": "shoulder",
+ "name": "Cowl Shroud",
+ "description": "Ribbed organic shroud curving over the shoulder.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 5,
+  "speed": 5,
+  "power": 3,
+  "weight": 5
+ },
+ "model": "mecha/parts/cowl-shroud/cowl-shroud.glb",
+ "tris": 458
+}

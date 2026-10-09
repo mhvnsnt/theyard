@@ -1,0 +1,17 @@
+{
+ "id": "aero-sail",
+ "slot": "backpack",
+ "name": "Aero Sail",
+ "description": "Big spoiler sail with endplates for downforce. Racer mode.",
+ "modes": [
+  "racer"
+ ],
+ "stats": {
+  "armor": 2,
+  "speed": 9,
+  "power": 3,
+  "weight": 3
+ },
+ "model": "mecha/parts/aero-sail/aero-sail.glb",
+ "tris": 110
+}

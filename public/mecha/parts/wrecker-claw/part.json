@@ -1,0 +1,18 @@
+{
+ "id": "wrecker-claw",
+ "slot": "arm",
+ "name": "Wrecker Claw",
+ "description": "Heavy arm ending in a three-finger wrecker claw.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 7,
+  "speed": 4,
+  "power": 8,
+  "weight": 7
+ },
+ "model": "mecha/parts/wrecker-claw/wrecker-claw.glb",
+ "tris": 574
+}

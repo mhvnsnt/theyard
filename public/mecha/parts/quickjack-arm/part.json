@@ -1,0 +1,17 @@
+{
+ "id": "quickjack-arm",
+ "slot": "arm",
+ "name": "Quickjack Arm",
+ "description": "Slim finned pit-crew arm built for speed. Racer mode.",
+ "modes": [
+  "racer"
+ ],
+ "stats": {
+  "armor": 3,
+  "speed": 10,
+  "power": 4,
+  "weight": 3
+ },
+ "model": "mecha/parts/quickjack-arm/quickjack-arm.glb",
+ "tris": 242
+}

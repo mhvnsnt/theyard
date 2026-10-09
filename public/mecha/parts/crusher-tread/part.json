@@ -1,0 +1,17 @@
+{
+ "id": "crusher-tread",
+ "slot": "leg",
+ "name": "Crusher Tread",
+ "description": "Massive tread-plate legs on twin hydraulic rams. Combat mode.",
+ "modes": [
+  "combat"
+ ],
+ "stats": {
+  "armor": 9,
+  "speed": 3,
+  "power": 6,
+  "weight": 9
+ },
+ "model": "mecha/parts/crusher-tread/crusher-tread.glb",
+ "tris": 380
+}

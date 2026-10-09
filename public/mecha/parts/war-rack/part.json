@@ -1,0 +1,17 @@
+{
+ "id": "war-rack",
+ "slot": "backpack",
+ "name": "War Rack",
+ "description": "Ammo drums and a spare spike rack. Combat mode.",
+ "modes": [
+  "combat"
+ ],
+ "stats": {
+  "armor": 7,
+  "speed": 3,
+  "power": 7,
+  "weight": 7
+ },
+ "model": "mecha/parts/war-rack/war-rack.glb",
+ "tris": 282
+}

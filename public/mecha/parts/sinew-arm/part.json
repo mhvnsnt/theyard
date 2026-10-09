@@ -1,0 +1,18 @@
+{
+ "id": "sinew-arm",
+ "slot": "arm",
+ "name": "Sinew Arm",
+ "description": "Sinewy biomech arm with an exposed piston and a plated knuckle hand.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 5,
+  "speed": 6,
+  "power": 7,
+  "weight": 5
+ },
+ "model": "mecha/parts/sinew-arm/sinew-arm.glb",
+ "tris": 428
+}

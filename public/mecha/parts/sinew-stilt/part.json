@@ -1,0 +1,18 @@
+{
+ "id": "sinew-stilt",
+ "slot": "leg",
+ "name": "Sinew Stilt",
+ "description": "Digitigrade sinewy legs with ribbed plating and an exposed achilles piston.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 5,
+  "speed": 7,
+  "power": 5,
+  "weight": 5
+ },
+ "model": "mecha/parts/sinew-stilt/sinew-stilt.glb",
+ "tris": 838
+}

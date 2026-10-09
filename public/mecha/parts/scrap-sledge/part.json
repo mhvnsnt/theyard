@@ -1,0 +1,18 @@
+{
+ "id": "scrap-sledge",
+ "slot": "weapon",
+ "name": "Scrap Sledge",
+ "description": "Welded-plate sledgehammer with a spike poll.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 2,
+  "speed": 5,
+  "power": 9,
+  "weight": 7
+ },
+ "model": "mecha/parts/scrap-sledge/scrap-sledge.glb",
+ "tris": 272
+}

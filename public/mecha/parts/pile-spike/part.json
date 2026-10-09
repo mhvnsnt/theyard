@@ -1,0 +1,17 @@
+{
+ "id": "pile-spike",
+ "slot": "weapon",
+ "name": "Pile Spike",
+ "description": "Piston-driven spike driver. Combat mode.",
+ "modes": [
+  "combat"
+ ],
+ "stats": {
+  "armor": 3,
+  "speed": 4,
+  "power": 10,
+  "weight": 7
+ },
+ "model": "mecha/parts/pile-spike/pile-spike.glb",
+ "tris": 228
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ram-lance",
+ "slot": "weapon",
+ "name": "Ram Lance",
+ "description": "Streamlined boost lance with an aero ram head. Racer mode.",
+ "modes": [
+  "racer"
+ ],
+ "stats": {
+  "armor": 1,
+  "speed": 9,
+  "power": 6,
+  "weight": 4
+ },
+ "model": "mecha/parts/ram-lance/ram-lance.glb",
+ "tris": 114
+}

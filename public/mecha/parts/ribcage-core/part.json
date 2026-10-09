@@ -1,0 +1,18 @@
+{
+ "id": "ribcage-core",
+ "slot": "torso",
+ "name": "Ribcage Core",
+ "description": "Exposed ribbed organic core over a hunched spine column with an engine fan.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 5,
+  "speed": 6,
+  "power": 6,
+  "weight": 5
+ },
+ "model": "mecha/parts/ribcage-core/ribcage-core.glb",
+ "tris": 904
+}

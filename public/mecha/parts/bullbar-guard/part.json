@@ -1,0 +1,17 @@
+{
+ "id": "bullbar-guard",
+ "slot": "shoulder",
+ "name": "Bullbar Guard",
+ "description": "Forward bullbar hoops over heavy plate. Combat mode.",
+ "modes": [
+  "combat"
+ ],
+ "stats": {
+  "armor": 8,
+  "speed": 3,
+  "power": 4,
+  "weight": 8
+ },
+ "model": "mecha/parts/bullbar-guard/bullbar-guard.glb",
+ "tris": 432
+}

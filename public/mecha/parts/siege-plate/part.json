@@ -1,0 +1,17 @@
+{
+ "id": "siege-plate",
+ "slot": "torso",
+ "name": "Siege Plate",
+ "description": "Heavy riveted slab armor with a boiler chest and side exhaust. Combat mode.",
+ "modes": [
+  "combat"
+ ],
+ "stats": {
+  "armor": 10,
+  "speed": 2,
+  "power": 5,
+  "weight": 10
+ },
+ "model": "mecha/parts/siege-plate/siege-plate.glb",
+ "tris": 804
+}

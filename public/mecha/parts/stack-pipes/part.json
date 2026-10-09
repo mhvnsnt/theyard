@@ -1,0 +1,18 @@
+{
+ "id": "stack-pipes",
+ "slot": "backpack",
+ "name": "Stack Pipes",
+ "description": "Twin exhaust stacks with bands, flares and rain flaps.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 4,
+  "speed": 5,
+  "power": 6,
+  "weight": 5
+ },
+ "model": "mecha/parts/stack-pipes/stack-pipes.glb",
+ "tris": 518
+}

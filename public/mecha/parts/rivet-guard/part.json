@@ -1,0 +1,18 @@
+{
+ "id": "rivet-guard",
+ "slot": "shoulder",
+ "name": "Rivet Guard",
+ "description": "Riveted plate guard with a scrap skirt.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 6,
+  "speed": 4,
+  "power": 3,
+  "weight": 6
+ },
+ "model": "mecha/parts/rivet-guard/rivet-guard.glb",
+ "tris": 542
+}

@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { Link } from "@tanstack/react-router";
 import { Download, Smartphone, Trash2 } from "lucide-react";
 import {
   BASES,
@@ -105,6 +106,27 @@ export function YardHome({
           </button>
         </div>
         <p className="mt-3 font-mono text-xs text-mist">3 laps · drift boost · rivals on the grid · touch or keys</p>
+      </section>
+
+      <section className="mt-6 border border-line bg-panel p-4 sm:p-6">
+        <div className="flex flex-wrap items-start justify-between gap-4">
+          <div>
+            <p className="font-mono text-xs text-sodium">mecha-bay</p>
+            <h2 className="mt-1 font-display text-3xl font-extrabold">Mecha Bay</h2>
+            <p className="mt-2 max-w-lg text-sm text-mist">
+              Build your biomech. Bolt parts onto seven slots in Racer or Combat mode,
+              watch the stats move, then transform it mid-preview.
+            </p>
+          </div>
+        </div>
+        <div className="mt-5 flex flex-col gap-2 sm:flex-row">
+          <Link to="/mecha" className="btn btn-primary sm:min-w-40">
+            Open Mecha Bay
+          </Link>
+        </div>
+        <p className="mt-3 font-mono text-xs text-mist">
+          7 slots × racer/combat modes · live 3D preview · transforms on command
+        </p>
       </section>
 
       <section className="mt-8">

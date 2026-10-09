@@ -1,0 +1,18 @@
+{
+ "id": "derby-stomp",
+ "slot": "leg",
+ "name": "Derby Stomp",
+ "description": "Wide plated legs with tread shin guards and a hydraulic piston.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 6,
+  "speed": 5,
+  "power": 7,
+  "weight": 6
+ },
+ "model": "mecha/parts/derby-stomp/derby-stomp.glb",
+ "tris": 422
+}
