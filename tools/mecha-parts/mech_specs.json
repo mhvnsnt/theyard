@@ -1,0 +1,8 @@
+{
+ "mech1-racer":   {"head":"dart-probe","torso":"pit-mono","arm":"quickjack-arm","leg":"street-sprinter","shoulder":"draft-fin","backpack":"aero-sail","weapon":"ram-lance"},
+ "mech1-combat":  {"head":"siege-maw","torso":"siege-plate","arm":"pile-arm","leg":"crusher-tread","shoulder":"bullbar-guard","backpack":"war-rack","weapon":"pile-spike"},
+ "mech2-racer":   {"head":"dart-probe","torso":"ribcage-core","arm":"quickjack-arm","leg":"street-sprinter","shoulder":"draft-fin","backpack":"cage-rig","weapon":"ram-lance"},
+ "mech2-combat":  {"head":"siege-maw","torso":"ribcage-core","arm":"wrecker-claw","leg":"derby-stomp","shoulder":"bullbar-guard","backpack":"war-rack","weapon":"scrap-sledge"},
+ "mech3-racer":   {"head":"hound-vis","torso":"aero-wedge","arm":"quickjack-arm","leg":"street-sprinter","shoulder":"draft-fin","backpack":"aero-sail","weapon":"ram-lance"},
+ "mech3-combat":  {"head":"scrap-crown","torso":"siege-plate","arm":"wrecker-claw","leg":"derby-stomp","shoulder":"rivet-guard","backpack":"stack-pipes","weapon":"pile-spike"}
+}

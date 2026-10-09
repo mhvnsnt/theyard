@@ -1,3 +1,369 @@
 {
- "pile-spike": 228
+ "aero-sail": {
+  "tris": 110,
+  "slot": "backpack",
+  "modes": [
+   "racer"
+  ]
+ },
+ "aero-wedge": {
+  "tris": 236,
+  "slot": "torso",
+  "modes": [
+   "racer"
+  ]
+ },
+ "arms-bruiser": {
+  "tris": null,
+  "slot": "arms",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "arms-scout": {
+  "tris": null,
+  "slot": "arms",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "backpack-afterburner": {
+  "tris": null,
+  "slot": "backpack",
+  "modes": [
+   "racer"
+  ]
+ },
+ "backpack-bruiser": {
+  "tris": null,
+  "slot": "backpack",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "backpack-jumpjets": {
+  "tris": null,
+  "slot": "backpack",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "bullbar-guard": {
+  "tris": 432,
+  "slot": "shoulder",
+  "modes": [
+   "combat"
+  ]
+ },
+ "cage-rig": {
+  "tris": 88,
+  "slot": "backpack",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "cowl-shroud": {
+  "tris": 458,
+  "slot": "shoulder",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "crusher-tread": {
+  "tris": 380,
+  "slot": "leg",
+  "modes": [
+   "combat"
+  ]
+ },
+ "dart-probe": {
+  "tris": 340,
+  "slot": "head",
+  "modes": [
+   "racer"
+  ]
+ },
+ "derby-stomp": {
+  "tris": 422,
+  "slot": "leg",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "draft-fin": {
+  "tris": 148,
+  "slot": "shoulder",
+  "modes": [
+   "racer"
+  ]
+ },
+ "head-bruiser": {
+  "tris": null,
+  "slot": "head",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "head-scout": {
+  "tris": null,
+  "slot": "head",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "head-warden": {
+  "tris": null,
+  "slot": "head",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "hound-vis": {
+  "tris": 878,
+  "slot": "head",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "legs-bruiser": {
+  "tris": null,
+  "slot": "legs",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "legs-roadster": {
+  "tris": null,
+  "slot": "legs",
+  "modes": [
+   "racer"
+  ]
+ },
+ "legs-scout": {
+  "tris": null,
+  "slot": "legs",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "pile-arm": {
+  "tris": 378,
+  "slot": "arm",
+  "modes": [
+   "combat"
+  ]
+ },
+ "pile-spike": {
+  "tris": 228,
+  "slot": "weapon",
+  "modes": [
+   "combat"
+  ]
+ },
+ "pit-mono": {
+  "tris": 562,
+  "slot": "torso",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "quickjack-arm": {
+  "tris": 242,
+  "slot": "arm",
+  "modes": [
+   "racer"
+  ]
+ },
+ "ram-lance": {
+  "tris": 114,
+  "slot": "weapon",
+  "modes": [
+   "racer"
+  ]
+ },
+ "ribcage-core": {
+  "tris": 904,
+  "slot": "torso",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "ripper-chain": {
+  "tris": 308,
+  "slot": "weapon",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "rivet-guard": {
+  "tris": 542,
+  "slot": "shoulder",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "scrap-crown": {
+  "tris": 548,
+  "slot": "head",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "scrap-sledge": {
+  "tris": 272,
+  "slot": "weapon",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "shoulders-bruiser": {
+  "tris": null,
+  "slot": "shoulders",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "shoulders-scout": {
+  "tris": null,
+  "slot": "shoulders",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "shoulders-spiked": {
+  "tris": null,
+  "slot": "shoulders",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "siege-maw": {
+  "tris": 530,
+  "slot": "head",
+  "modes": [
+   "combat"
+  ]
+ },
+ "siege-plate": {
+  "tris": 804,
+  "slot": "torso",
+  "modes": [
+   "combat"
+  ]
+ },
+ "sinew-arm": {
+  "tris": 428,
+  "slot": "arm",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "sinew-stilt": {
+  "tris": 838,
+  "slot": "leg",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "stack-pipes": {
+  "tris": 518,
+  "slot": "backpack",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "street-sprinter": {
+  "tris": 172,
+  "slot": "leg",
+  "modes": [
+   "racer"
+  ]
+ },
+ "torso-bruiser": {
+  "tris": null,
+  "slot": "torso",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "torso-scout": {
+  "tris": null,
+  "slot": "torso",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "torso-warden": {
+  "tris": null,
+  "slot": "torso",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "war-rack": {
+  "tris": 282,
+  "slot": "backpack",
+  "modes": [
+   "combat"
+  ]
+ },
+ "weapon-pulsegun": {
+  "tris": null,
+  "slot": "weapon",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "weapon-scrapblade": {
+  "tris": null,
+  "slot": "weapon",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ },
+ "weapon-siegeplow": {
+  "tris": null,
+  "slot": "weapon",
+  "modes": [
+   "combat"
+  ]
+ },
+ "wrecker-claw": {
+  "tris": 574,
+  "slot": "arm",
+  "modes": [
+   "racer",
+   "combat"
+  ]
+ }
 }
