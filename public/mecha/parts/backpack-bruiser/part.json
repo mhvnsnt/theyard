@@ -1,0 +1,17 @@
+{
+  "id": "backpack-bruiser",
+  "slot": "backpack",
+  "name": "Siege Pack",
+  "description": "Armored rear pack with ammo drums and a bolted armor plate.",
+  "stats": {
+    "armor": 14,
+    "speed": 2,
+    "power": 8,
+    "weight": 12
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "backpack-bruiser.glb"
+}

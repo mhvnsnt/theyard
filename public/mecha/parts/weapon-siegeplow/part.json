@@ -1,0 +1,16 @@
+{
+  "id": "weapon-siegeplow",
+  "slot": "weapon",
+  "name": "Siege Plow Cannon",
+  "description": "Combat-only heavy cannon with a drum feed and long barrel.",
+  "stats": {
+    "armor": 6,
+    "speed": 2,
+    "power": 30,
+    "weight": 16
+  },
+  "modes": [
+    "combat"
+  ],
+  "model": "weapon-siegeplow.glb"
+}

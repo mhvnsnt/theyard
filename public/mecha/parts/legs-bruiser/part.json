@@ -1,0 +1,17 @@
+{
+  "id": "legs-bruiser",
+  "slot": "legs",
+  "name": "Siege Legs",
+  "description": "Heavy siege legs with armored shins and wide stabilizer feet.",
+  "stats": {
+    "armor": 20,
+    "speed": 6,
+    "power": 12,
+    "weight": 18
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "legs-bruiser.glb"
+}

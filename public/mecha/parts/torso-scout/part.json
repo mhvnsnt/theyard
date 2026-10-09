@@ -1,0 +1,17 @@
+{
+  "id": "torso-scout",
+  "slot": "torso",
+  "name": "Scout Chassis",
+  "description": "Slim chassis with vented chest and a bone breastplate.",
+  "stats": {
+    "armor": 14,
+    "speed": 10,
+    "power": 8,
+    "weight": 10
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "torso-scout.glb"
+}

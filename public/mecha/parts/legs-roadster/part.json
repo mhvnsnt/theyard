@@ -1,0 +1,16 @@
+{
+  "id": "legs-roadster",
+  "slot": "legs",
+  "name": "Roadster Wheel Rig",
+  "description": "Racer-only wheel rig: hip blocks, forks and twin drive wheels.",
+  "stats": {
+    "armor": 8,
+    "speed": 26,
+    "power": 6,
+    "weight": 12
+  },
+  "modes": [
+    "racer"
+  ],
+  "model": "legs-roadster.glb"
+}

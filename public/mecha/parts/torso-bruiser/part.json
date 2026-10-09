@@ -1,0 +1,17 @@
+{
+  "id": "torso-bruiser",
+  "slot": "torso",
+  "name": "Bruiser Chassis",
+  "description": "Heavy chassis with layered front armor and a war skirt.",
+  "stats": {
+    "armor": 26,
+    "speed": 4,
+    "power": 10,
+    "weight": 18
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "torso-bruiser.glb"
+}

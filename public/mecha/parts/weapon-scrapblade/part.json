@@ -1,0 +1,17 @@
+{
+  "id": "weapon-scrapblade",
+  "slot": "weapon",
+  "name": "Scrapblade",
+  "description": "Salvaged mono-blade with a sodium cutting edge.",
+  "stats": {
+    "armor": 2,
+    "speed": 8,
+    "power": 16,
+    "weight": 6
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "weapon-scrapblade.glb"
+}

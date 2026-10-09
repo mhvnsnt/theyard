@@ -1,0 +1,17 @@
+{
+  "id": "head-warden",
+  "slot": "head",
+  "name": "Warden Crest",
+  "description": "Command head with a sodium crest fin and bone cheek plates.",
+  "stats": {
+    "armor": 14,
+    "speed": 10,
+    "power": 10,
+    "weight": 8
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "head-warden.glb"
+}

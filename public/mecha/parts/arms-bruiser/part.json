@@ -1,0 +1,17 @@
+{
+  "id": "arms-bruiser",
+  "slot": "arms",
+  "name": "Bruiser Gauntlets",
+  "description": "Heavy arm pair with plated gauntlets and red knuckle guards.",
+  "stats": {
+    "armor": 16,
+    "speed": 4,
+    "power": 16,
+    "weight": 14
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "arms-bruiser.glb"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "legs-scout",
+  "slot": "legs",
+  "name": "Runner Legs",
+  "description": "Digitigrade runner legs with sodium shin guards.",
+  "stats": {
+    "armor": 10,
+    "speed": 18,
+    "power": 8,
+    "weight": 10
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "legs-scout.glb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "backpack-afterburner",
+  "slot": "backpack",
+  "name": "Afterburner Pack",
+  "description": "Racer-only twin-thruster pack with glowing exhaust bells.",
+  "stats": {
+    "armor": 4,
+    "speed": 22,
+    "power": 6,
+    "weight": 8
+  },
+  "modes": [
+    "racer"
+  ],
+  "model": "backpack-afterburner.glb"
+}

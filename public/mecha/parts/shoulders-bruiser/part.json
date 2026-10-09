@@ -1,0 +1,17 @@
+{
+  "id": "shoulders-bruiser",
+  "slot": "shoulders",
+  "name": "Bruiser Pauldrons",
+  "description": "Massive layered pauldrons with red war striping.",
+  "stats": {
+    "armor": 14,
+    "speed": 2,
+    "power": 8,
+    "weight": 10
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "shoulders-bruiser.glb"
+}

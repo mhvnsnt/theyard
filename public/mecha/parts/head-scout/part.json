@@ -1,0 +1,17 @@
+{
+  "id": "head-scout",
+  "slot": "head",
+  "name": "Scout Sensor Head",
+  "description": "Light sensor head with a ranging antenna and a wide cyan visor.",
+  "stats": {
+    "armor": 10,
+    "speed": 16,
+    "power": 8,
+    "weight": 6
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "head-scout.glb"
+}

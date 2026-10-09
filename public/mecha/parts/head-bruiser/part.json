@@ -1,0 +1,17 @@
+{
+  "id": "head-bruiser",
+  "slot": "head",
+  "name": "Bruiser Helm",
+  "description": "Heavy plated helm with a slit visor and armored jaw guards.",
+  "stats": {
+    "armor": 18,
+    "speed": 6,
+    "power": 8,
+    "weight": 10
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "head-bruiser.glb"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "arms-scout",
+  "slot": "arms",
+  "name": "Scout Arms",
+  "description": "Light arm pair with forearm sensor fins. Carries the weapon mount.",
+  "stats": {
+    "armor": 8,
+    "speed": 12,
+    "power": 10,
+    "weight": 8
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "arms-scout.glb"
+}

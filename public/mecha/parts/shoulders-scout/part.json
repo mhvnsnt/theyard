@@ -1,0 +1,17 @@
+{
+  "id": "shoulders-scout",
+  "slot": "shoulders",
+  "name": "Scout Guards",
+  "description": "Compact shoulder guards with sodium trim.",
+  "stats": {
+    "armor": 6,
+    "speed": 6,
+    "power": 4,
+    "weight": 4
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "shoulders-scout.glb"
+}

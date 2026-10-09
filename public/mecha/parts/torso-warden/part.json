@@ -1,0 +1,17 @@
+{
+  "id": "torso-warden",
+  "slot": "torso",
+  "name": "Warden Canopy",
+  "description": "Command chassis with an exposed pilot canopy and sodium trim.",
+  "stats": {
+    "armor": 18,
+    "speed": 8,
+    "power": 12,
+    "weight": 14
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "torso-warden.glb"
+}

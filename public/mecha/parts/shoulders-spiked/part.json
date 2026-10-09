@@ -1,0 +1,17 @@
+{
+  "id": "shoulders-spiked",
+  "slot": "shoulders",
+  "name": "Spiked Pauldrons",
+  "description": "Dark pauldrons crowned with bone spikes.",
+  "stats": {
+    "armor": 10,
+    "speed": 4,
+    "power": 12,
+    "weight": 8
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "shoulders-spiked.glb"
+}

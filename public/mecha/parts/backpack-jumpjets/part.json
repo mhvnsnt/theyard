@@ -1,0 +1,17 @@
+{
+  "id": "backpack-jumpjets",
+  "slot": "backpack",
+  "name": "Jump-Jet Pack",
+  "description": "Twin lift jets on a crossbar mount for quick repositioning.",
+  "stats": {
+    "armor": 8,
+    "speed": 16,
+    "power": 8,
+    "weight": 10
+  },
+  "modes": [
+    "racer",
+    "combat"
+  ],
+  "model": "backpack-jumpjets.glb"
+}
