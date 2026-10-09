@@ -1,0 +1,18 @@
+{
+ "id": "hound-vis",
+ "slot": "head",
+ "name": "Hound Visor",
+ "description": "Bestial cowl with a wide hazard visor slit, riveted brow and exhaust nostrils.",
+ "modes": [
+  "racer",
+  "combat"
+ ],
+ "stats": {
+  "armor": 4,
+  "speed": 7,
+  "power": 4,
+  "weight": 4
+ },
+ "model": "mecha/parts/hound-vis/hound-vis.glb",
+ "tris": 878
+}
