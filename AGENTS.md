@@ -370,3 +370,6 @@ and the shortcut takes 2, take the 10 turns.
 
 HIS WORDS: "Stop taking the cheap, easy, fast way of trying to do what I ask but
 not actually doing what I ask. Actually do what I ask you to do."
+
+## Muse training pack
+Muse/Ashes and every agent: read the [Muse training pack](https://github.com/mhvnsnt/money-machine-hq/tree/main/docs/muse-training-pack) (instructions, pre-flight checklist, real before/after examples, right-way videos) before every job.
