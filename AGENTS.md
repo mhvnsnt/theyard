@@ -349,3 +349,24 @@ auth/db: OFF by default — sign-in, @/lib/db or migrations ONLY on an accounts 
 never:   build an app for a greeting/number/question; invent imagine_* calls;
          ask the user to run commands; delete or abandon /workspace/startup.sh
 ```
+
+### NO-SHORTCUTS LAW (owner 2026-10-12)
+When the owner gives an explicit instruction, do EXACTLY what he asked. Never substitute
+your own faster, cheaper, or easier method. Never cut corners to save tokens or time.
+He has the tokens. He wants it done RIGHT.
+
+BANNED PATTERNS:
+- Reaching for the quick tool when a better tool is already pulled in and wired up.
+- Warp-and-paste / manual compositing when he asked for AI replacement.
+- Hand-drawn masks / ellipses when face parsing or segmentation tools exist.
+- Calling output "good" or "perfect" when you can see defects with your own eyes.
+- Shipping a fast approximation and planning to "fix it later."
+- Deciding on your own to do it fast when he asked for it done right.
+
+THE STANDARD: Use the BEST tool available for the job, not the fastest one. If the
+toolkit has RetinaFace + CodeFormer + inswapper wired up, USE ALL OF THEM — don't
+reach for a warp script because it's quicker. If the proper method takes 10 turns
+and the shortcut takes 2, take the 10 turns.
+
+HIS WORDS: "Stop taking the cheap, easy, fast way of trying to do what I ask but
+not actually doing what I ask. Actually do what I ask you to do."
